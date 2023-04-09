@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stratego", "Stratego\Stratego.csproj", "{C85D93F9-9A4C-4B3A-875E-9E54B8F0CE2A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stratego.Tests", "Stratego.Tests\Stratego.Tests.csproj", "{430F5647-B9F6-46F8-B185-F723D466C21B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{C85D93F9-9A4C-4B3A-875E-9E54B8F0CE2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C85D93F9-9A4C-4B3A-875E-9E54B8F0CE2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C85D93F9-9A4C-4B3A-875E-9E54B8F0CE2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{430F5647-B9F6-46F8-B185-F723D466C21B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{430F5647-B9F6-46F8-B185-F723D466C21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{430F5647-B9F6-46F8-B185-F723D466C21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{430F5647-B9F6-46F8-B185-F723D466C21B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
